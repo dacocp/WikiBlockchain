@@ -11,7 +11,7 @@
 
 ### 1.1 Ethereum
 
-* Solidity
+* [Solidity](/1-tecnico/1.1-ethereum/solidity.md)
 
 ## Economía
 
