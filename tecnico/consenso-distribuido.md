@@ -1,4 +1,4 @@
-\#Consenso distribuido
+### Consenso distribuido
 
-\#Algoritmo Proof of Work
+#### \#Algoritmo Proof of Work
 
