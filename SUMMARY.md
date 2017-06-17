@@ -6,12 +6,12 @@
 
 ## 2. Técnico
 
-* [Consenso distribuido](tecnico/consenso-distribuido.md)
-* [Algoritmo Proof of Work](tecnico/algoritmo-proof-of-work.md)
+* [Consenso distribuido](/2-tecnico/consenso-distribuido.md)
+* [Algoritmo Proof of Work](/2-tecnico/algoritmo-proof-of-work.md)
 
 ### 2.1 Ethereum
 
-* [Solidity](/1-tecnico/1.1-ethereum/solidity.md)
+* [Solidity](/2-tecnico/2.1-ethereum/solidity.md)
 
 ## 3. Economía
 
