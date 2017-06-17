@@ -8,8 +8,10 @@
 
 * [Consenso distribuido](tecnico/consenso-distribuido.md)
 
-## Subpart
+#### Subpart
 
 * [subpart bla](subpart-bla.md)
 * Easthereum
+
+
 
