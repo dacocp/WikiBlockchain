@@ -14,3 +14,7 @@
 * [subpart bla](subpart-bla.md)
 * Easthereum
 
+## Economía
+
+* [ICOs](economia/icos.md)
+
