@@ -7,5 +7,5 @@
 ## Técnico
 
 * [Ethereum](tecnico/ethereum.md)
-* Consenso distribuido
+* [Consenso distribuido](tecnico/consenso-distribuido.md)
 
