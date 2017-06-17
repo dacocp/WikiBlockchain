@@ -1,0 +1,2 @@
+\#Algoritmo Proof of Work
+
