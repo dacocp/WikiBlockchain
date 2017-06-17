@@ -8,7 +8,7 @@
 
 * [Consenso distribuido](tecnico/consenso-distribuido.md)
 * [Algoritmo Proof of Work](tecnico/algoritmo-proof-of-work.md)
-* [Solidity](#técnico)
+* [Solidity](/tecnico/solidity.md)
 
 ## Economía
 
