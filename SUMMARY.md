@@ -13,7 +13,7 @@
 
 * [Solidity](/1-tecnico/1.1-ethereum/solidity.md)
 
-## Economía
+## 2. Economía
 
 * [ICOs](economia/icos.md)
 
