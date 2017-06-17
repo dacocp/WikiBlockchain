@@ -8,7 +8,6 @@
 
 * [Consenso distribuido](tecnico/consenso-distribuido.md)
 * [Ethereum](tecnico/ethereum.md)
-* [Solidity](tecnico/solidity.md)
 
 ## Solidity
 
