@@ -3,13 +3,13 @@
 ## Introducción
 
 * [Introduction](README.md)
-* [subpart bla](subpart-bla.md)
 
 ## Técnico
 
 * [Consenso distribuido](tecnico/consenso-distribuido.md)
 
----
+## Subpart
 
+* [subpart bla](subpart-bla.md)
 * Easthereum
 
