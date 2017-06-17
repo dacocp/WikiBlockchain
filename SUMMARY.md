@@ -7,7 +7,10 @@
 ## Técnico
 
 * [Consenso distribuido](tecnico/consenso-distribuido.md)
-* [Solidity](/tecnico/solidity.md)
+
+### Ethereum
+
+* Solidity
 
 
 
