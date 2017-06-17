@@ -17,7 +17,7 @@
 
 ### 2.1 ICOs
 
-* [ICOs](economia/icos.md)
+* [ICOs](/2-economia/2.1-ICOs/icos.md)
 
 
 
