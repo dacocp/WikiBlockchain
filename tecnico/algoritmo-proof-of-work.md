@@ -1,2 +1,4 @@
-\#\#\#Algoritmo Proof of Work
+### Algoritmo Proof of Work
+
+
 
