@@ -8,7 +8,7 @@
 
 * [Consenso distribuido](tecnico/consenso-distribuido.md)
 
-### Ethereum
+#### Ethereum
 
 * [Solidity](/tecnico/ethereum/solidity.md)
 
