@@ -17,7 +17,7 @@
 
 ### [3.1 ICOs](/3-economia/3.1-ICOs/README.md)
 
-* [ICOs](/3-economia/3.1-ICOs/icos.md)
+
 
 
 
